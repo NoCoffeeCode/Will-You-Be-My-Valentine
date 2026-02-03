@@ -1,6 +1,6 @@
 
 import React, { useEffect } from 'react';
-import confetti from 'https://cdn.skypack.dev/canvas-confetti';
+import confetti from 'canvas-confetti';
 
 interface CelebrationProps {
   active: boolean;
