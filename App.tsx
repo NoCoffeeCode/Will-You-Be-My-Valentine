@@ -198,6 +198,7 @@ const App: React.FC = () => {
               </p>
               <div className="mt-8 scale-110 flex gap-2"><DrawingIcon type="cute_flowers" /></div>
               <div className="mt-12 text-[10px] text-pink-200 tracking-[0.3em] font-sans uppercase font-bold">Handcoded with Love</div>
+              <div className="mt-12 text-[10px] text-pink-200 tracking-[0.3em] font-sans uppercase font-bold">Refresh the page to re-live this moment</div>
             </div>
           </div>
         ) : (
