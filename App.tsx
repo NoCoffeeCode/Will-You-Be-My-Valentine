@@ -4,7 +4,7 @@ import { CardState } from './types';
 import FloatingHearts from './components/FloatingHearts';
 import Celebration from './components/Celebration';
 import DrawingIcon from './components/DrawingIcon';
-import { Analytics } from "@vercel/analytics/next"
+import { Analytics } from "@vercel/analytics/react"
 
 const CHARACTER_TYPES = [
   'char_cat', 'char_penguin', 'char_bunny', 'char_cloud', 'char_dino',
